@@ -15,3 +15,7 @@
 - Creating classes to represent reviews of restaurants.
 - Got help on this lab from my classmates Roger Reyes and John Rumsey.
 
+## Lab 7
+
+- Creating Classes to represent Shop and Theather.
+- used the Add method from https://www.programiz.com/java-programming/linkedlist
